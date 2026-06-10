@@ -16,39 +16,6 @@ Resources
 □ Object-Oriented Programming (OOP) 
 □ Images & Sound Assets 
 
-Steps 
-[1] Create game window and main menu. 
-[2] Design detective character and interface. 
-[3] Add movement system for player. 
-[4] Create investigation maps/rooms. 
-[5] Add clue collection system. 
-[6] Implement puzzle-solving mechanics. 
-[7] Add score system. 
-[8] Save progress using files. 
-[9] Test and debug game. 
-
-Architecture 
-Start 
-↓ 
-Main Menu 
-↓ 
-Game Controller 
-↓ 
-Player System 
-↓ 
-Investigation System 
-1 
-↓ 
-Clue System 
-↓ 
-Puzzle System 
-↓ 
-Score System 
-↓ 
-File Save System 
-↓ 
-End 
-
 Final Result 
 A complete detective-based mystery game where the player solves cases, collects clues, and 
 completes missions. The project demonstrates Java programming, logic building, and game 
