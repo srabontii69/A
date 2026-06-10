@@ -11,12 +11,12 @@ thinking and problem-solving skills through interactive gameplay.
 Resources 
 □ Java Programming Language 
 □ Java Swing (GUI Development) 
-□ NetBeans IDE / IntelliJ IDEA 
+□ NetBeans IDE 
 □ File Handling (No Database) 
 □ Object-Oriented Programming (OOP) 
 □ Images & Sound Assets 
-Steps 
 
+Steps 
 [1] Create game window and main menu. 
 [2] Design detective character and interface. 
 [3] Add movement system for player. 
@@ -46,25 +46,6 @@ Puzzle System
 Score System 
 ↓ 
 File Save System 
-↓ 
-End 
-
-Flowchart 
-Start 
-↓ 
-Launch Game 
-↓ 
-Select Case 
-↓ 
-Explore Area 
-↓ 
-Collect Clues 
-↓ 
-Solve Puzzle 
-↓ 
-Case Solved? 
-→ Yes → Next Level 
-→ No → Continue 
 ↓ 
 End 
 
